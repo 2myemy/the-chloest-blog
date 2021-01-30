@@ -7,7 +7,7 @@ class Profile extends Component {
       <div>
         <div className="section d-flex">
           <div className="col-6 d-flex justify-content-center align-items-center">
-            <img className="projcet-img" src={'./project4.svg'} />
+            <img className="projcet-img" src={'./project4.svg'} alt="profile section"/>
           </div>
           <div className="col-6 d-flex justify-content-center align-items-center profile-section">
             <div>
@@ -18,7 +18,7 @@ class Profile extends Component {
         
           <div className="section d-flex">
           <div className="col-6 d-flex justify-content-center align-items-center">
-            <img className="projcet-img" src={'./project2.svg'} />
+            <img className="projcet-img" src={'./project2.svg'} alt="work experience section"/>
           </div>
           <div className="col-6 d-flex justify-content-center align-items-center">
             <div>
@@ -50,7 +50,7 @@ class Profile extends Component {
             </div>
           </div>
           <div className="col-6 d-flex justify-content-center align-items-center">
-            <img className="projcet-img" src={'./project1.svg'} />
+            <img className="projcet-img" src={'./project1.svg'} alt="education section"/>
           </div>
           </div>
 
