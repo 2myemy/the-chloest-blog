@@ -23,7 +23,7 @@ const routing = (
           <Nav className="mr-auto">
             <Nav.Link href="/profile">Profile</Nav.Link>
             {/* <Nav.Link href="/project">Project</Nav.Link> */}
-            <Nav.Link href="./resume_myungyeon.pdf">Resume</Nav.Link>
+            <Nav.Link href="./Resume_Myungyeon_Lee.pdf" target="_blank">Resume</Nav.Link>
           </Nav>
           <Nav>
             <Nav.Link href="https://www.linkedin.com/in/the-chloest" target="_blank">

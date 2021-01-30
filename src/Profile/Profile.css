@@ -5,3 +5,8 @@
 .section {
   height: 90vh;
 }
+
+.profile-section {
+  margin-left: 20px;
+  max-width: 550px;
+}
