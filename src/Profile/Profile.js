@@ -5,7 +5,7 @@ class Profile extends Component {
   render() {
     return (
       <div>
-        <div className="section d-flex">
+        {/* <div className="section d-flex">
           <div className="col-6 d-flex justify-content-center align-items-center">
             <img className="projcet-img" src={'./project4.svg'} alt="profile section"/>
           </div>
@@ -14,11 +14,11 @@ class Profile extends Component {
           New things always motivate me. I move forward with curiosity of the world.
           <b> Why don't you join me on a wonderful life journey? :) </b></div>
           </div>
-        </div>
+        </div> */}
         
           <div className="section d-flex">
           <div className="col-6 d-flex justify-content-center align-items-center">
-            <img className="projcet-img" src={'./project2.svg'} alt="work experience section"/>
+            <img className="project-img" src={'./project2.svg'}/>
           </div>
           <div className="col-6 d-flex justify-content-center align-items-center">
             <div>
@@ -50,7 +50,7 @@ class Profile extends Component {
             </div>
           </div>
           <div className="col-6 d-flex justify-content-center align-items-center">
-            <img className="projcet-img" src={'./project1.svg'} alt="education section"/>
+            <img className="project-img" src={'./project1.svg'} alt="education section"/>
           </div>
           </div>
 

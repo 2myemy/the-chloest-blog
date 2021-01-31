@@ -23,7 +23,7 @@ const routing = (
           <Nav className="mr-auto">
             <Nav.Link href="/profile">Profile</Nav.Link>
             {/* <Nav.Link href="/project">Project</Nav.Link> */}
-            <Nav.Link href="./Resume_Myungyeon_Lee.pdf" target="_blank">Resume</Nav.Link>
+            <Nav.Link href="https://master.d2uwrvm6a8nrnx.amplifyapp.com/Resume_Myungyeon_Lee.pdf" target="_blank">Resume</Nav.Link>
           </Nav>
           <Nav>
             <Nav.Link href="https://www.linkedin.com/in/the-chloest" target="_blank">

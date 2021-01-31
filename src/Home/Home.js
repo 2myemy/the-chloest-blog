@@ -22,7 +22,7 @@ class Home extends Component {
           <img src={'./heythere2.jpeg'} />
           <div className="main-content">
             <p className="title">Hey there!</p>
-            <p className="content">I'm Myungyeon Chloe Lee.<br/>It means bright and delightful. I'm trying to make my life like that too :)</p>
+            <p className="content">My name is Myungyeon Chloe Lee.<br/>It means bright and delightful, and I'm trying to make my life like that too :)</p>
           </div>
         </div>
         <div>
