@@ -18,7 +18,7 @@ class Profile extends Component {
         
           <div className="section d-flex">
           <div className="col-6 d-flex justify-content-center align-items-center">
-            <img src={'./heythere2.jpeg'} alt="work section"/>
+            <img className="project-img" src={'./project8.jpg'} alt="work section"/>
           </div>
           <div className="col-6 d-flex justify-content-center align-items-center">
             <div>
@@ -50,7 +50,7 @@ class Profile extends Component {
             </div>
           </div>
           <div className="col-6 d-flex justify-content-center align-items-center">
-            <img src={'./heythere2.jpeg'} alt="education section"/>
+            <img className="project-img" src={'./project7.jpg'} alt="education section"/>
           </div>
           </div>
 
