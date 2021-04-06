@@ -21,8 +21,8 @@ const routing = (
     <Navbar bg="light" variant="light">
           <Navbar.Brand href="/">Myungyeon Lee</Navbar.Brand>
           <Nav className="mr-auto">
-            <Nav.Link href="/profile">Profile</Nav.Link>
-            {/* <Nav.Link href="/project">Project</Nav.Link> */}
+            {/*<Nav.Link href="/profile">Profile</Nav.Link>
+             <Nav.Link href="/project">Project</Nav.Link> */}
             <Nav.Link href="https://master.d2uwrvm6a8nrnx.amplifyapp.com/Resume_Myungyeon_Lee.pdf" target="_blank">Resume</Nav.Link>
           </Nav>
           <Nav>
@@ -45,7 +45,6 @@ const routing = (
         <Route exact path="/" component={Home} />
         <Route path="/profile" component={Profile} />
         <Route path="/project" component={Project} />
-        <Route path="/user" component={User} />
         <Route component={Notfound} />
       </Switch>
     </div>
